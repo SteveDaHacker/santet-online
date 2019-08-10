@@ -13,7 +13,7 @@ git clone https://github.com/Gameye98/santet-online
 cd santet-online
 ```
 ```
-python santet.py
+python2 santet.py
 ```
 
 #### Join US
